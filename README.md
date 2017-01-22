@@ -29,6 +29,9 @@ available, developed by MalcolmRobb.
 
 Installation
 ---
+Add dependencies:
+sudo apt-get install librtlsdr-dev
+sudo apt-get install libusb-1.0-0-dev
 
 Type "make".
 
